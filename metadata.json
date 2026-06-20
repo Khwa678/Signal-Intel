@@ -1,0 +1,6 @@
+{
+  "name": "Signal Intel",
+  "description": "AI-Powered Market Intelligence Platform for discovering emerging tech trends, sentiment shifts, keyword clusters, and market opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
